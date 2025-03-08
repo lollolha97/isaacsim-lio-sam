@@ -1,0 +1,4 @@
+[submodule "lio-sam"]
+	path = lio-sam
+	url = https://github.com/TixiaoShan/LIO-SAM.git
+	branch = ros2
